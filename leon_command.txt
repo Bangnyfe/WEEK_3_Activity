@@ -1,2 +1,0 @@
-find /home/filename wc -l
-This counts number of files and folder
